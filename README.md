@@ -1,7 +1,7 @@
-twitter.github.com
+zhwz.github.com
 ======
 
-The source code of http://zhwz.github.io/home
+The source code of http://zhwz.github.io
 
 LICENSE
 ------------
