@@ -1,7 +1,7 @@
 twitter.github.com
 ======
 
-The source code of http://twi.github.io/
+The source code of http://kjytay.github.io/links/
 
 LICENSE
 ------------
