@@ -2,6 +2,7 @@ zhwz.github.com
 ======
 
 The source code of http://zhwz.github.io
+Edit: https://github.com/zhwz/zhwz.github.io/generated_pages/new
 
 LICENSE
 ------------
